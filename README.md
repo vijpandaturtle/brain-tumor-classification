@@ -1,2 +1,2 @@
-# brain-tumor-classification
-Classifying brain tumors using a deep learning model
+# Brain Tumor Classification
+Classifying brain tumors using a deep learning model 
