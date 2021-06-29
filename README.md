@@ -4,13 +4,13 @@ The aim of this project is to find the best model for classifying different type
 
 These are the pre-trained models used so far in the analysis 
 
-**Vision Transformer**
+### Vision Transformer
 ![ViT](images/plot-vit.png)
 
-**InceptionV3**
+### InceptionV3
 ![Inception](images/plot-inception.png)
 
-**Resnet50**
+### Resnet50
 ![Resnet](images/plot-resnet.png)
 
 
