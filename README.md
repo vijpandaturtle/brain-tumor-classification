@@ -12,6 +12,3 @@ These are the pre-trained models used so far in the analysis
 
 ### Resnet50
 ![Resnet](images/plot-resnet.png)
-
-
-In the future I will be adding more models to compare the results 
