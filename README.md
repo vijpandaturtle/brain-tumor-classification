@@ -12,3 +12,9 @@ These are the pre-trained models used so far in the analysis
 
 ### Resnet50
 ![Resnet](images/plot-resnet.png)
+
+
+References 
+1. https://keras.io/examples/vision/image_classification_with_vision_transformer/ 
+2. https://github.com/lukemelas/PyTorch-Pretrained-ViT 
+3. https://www.kaggle.com/raufmomin/vision-transformer-vit-fine-tuning
